@@ -6,6 +6,7 @@
 def prnt1_n(n):
 	for i in range(1,n+1):
 		print(i)
+print("To display 1 to 'n' numbers ->")
 n=input("Enter a number :")
 prnt1_n(n)
 
