@@ -18,4 +18,4 @@ n=input("Enter UPTO number of Fibonacchi :")
 prntFibo(n)
 
 
-#completed	
+#completed
