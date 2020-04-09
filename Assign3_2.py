@@ -12,6 +12,7 @@ def prntEvenSeries(n):
 	for i in range(n+2,2,-2):
 		if(i>1):
 			print(i)
+print("To display series of even numbers from 2 to 'n' and back")
 n=input("Enter a number :")
 prntEvenSeries(n)
 
