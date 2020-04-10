@@ -13,9 +13,8 @@ def prntFibo(n):
 		i=j
 		j=k
 		k=i+j	
-print("\t<---Fibonacchi Series--->")
+print("<---Fibonacchi Series--->")
 n=input("Enter UPTO number of Fibonacchi :")
-prntFibo(n)
-
+prntFibo(n)  #calling method with parameter n passing
 
 #completed

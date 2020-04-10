@@ -8,8 +8,7 @@ def prnt1_n(n):
 		print(i)
 print("To display 1 to 'n' numbers ->")
 n=input("Enter a number :")
-prnt1_n(n)
+prnt1_n(n)  #calling method with parameter n passed
 
 
 #completed
-	
